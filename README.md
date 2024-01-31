@@ -1,6 +1,6 @@
 - 👋 Oi! Eu sou o Leandro Pinzon Filho
 - 👀 Estou interessado em aprender novas linguagens e adquirir exeperiência.
-- 🌱 Atualmente estou estudando Ciências da computação na PUC-RS, e a linguagem de programação que estou aprendendo é JAVA.
+- 🌱 Atualmente estou estudando Ciências da computação na Unilasalle, e a linguagem de programação que estou aprendendo é JAVA.
 - 📫 Contate-me no e-mail: Leandro.pinzon.filho@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lfijho)](https://github.com/Lfijho/github-readme-stats)
