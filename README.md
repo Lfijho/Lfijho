@@ -6,9 +6,13 @@
   
   
   
-  <img align="center" alt="Leandro-Java" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
- </div>         
-
+<div style="display: inline-block; text-align: center;"> 
+  <img align="center" alt="Leandro-Java" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Leandro-React" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Leandro-HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Leandro-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Leandro-Spring" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
+</div>
 
 
 
