@@ -3,8 +3,6 @@
 - 🌱 Atualmente estou estudando Ciência da computação na Unilasalle. Me interesso por Java, JavaScript, SQL e React. Na parte de infraestrutura gosto muito da AWS.
 - 📫 Contate-me no e-mail: leandro.pinzon.filho@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lfijho)](https://github.com/Lfijho/github-readme-stats)
-<div>
   
   
   
