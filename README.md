@@ -30,11 +30,16 @@ Expertise na implementação de stacks de monitoramento para NOC e SOC, transfor
 
 ### Technical Skills & Ecosystem
 
+### Infrastructure & Operations Ecosystem
+
 | Domínio | Tecnologias |
 | :--- | :--- |
-| **Backend & Integration** | Java (Spring Boot), JavaScript (Node.js) |
-| **Databases** | MySQL, PostgreSQL, SQL Server |
-| **Containers & Tools** | Docker, Git |
+| **Cloud Providers** | AWS, Google Cloud Platform (GCP), Oracle Cloud (OCI), DigitalOcean |
+| **Infrastructure as Code** | Terraform, Ansible |
+| **Observability & Monitoring** | Zabbix, Grafana, Elastic Stack (ELK) |
+| **Networking & Connectivity** | Tailscale, Cloudflare Tunnel, VPN (IPsec/WireGuard), DNS Management |
+| **Systems & Automation** | Bash Scripting, Linux Hardening (RHEL, Debian, Ubuntu) |
+| **Runtime & Virtualization** | Docker, VMware, KVM |
 
 
 ### Professional Presence
