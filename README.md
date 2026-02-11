@@ -1,47 +1,45 @@
-# Leandro Pinzon Filho
-**Infrastructure Analyst | DevOps Specialist | Software Engineer**
+**Infrastructure Analyst | DevOps Engineer | Cloud & Automation**
 
-Profissional focado em arquitetura de sistemas, automação e cultura DevOps. Especialista em implementação de soluções escaláveis em nuvem (AWS), com sólido conhecimento em administração de sistemas Linux e desenvolvimento de software. Atualmente graduando em Ciência da Computação pela Unilasalle.
+Especialista em infraestrutura de TI com foco em alta disponibilidade, automação de processos e governança em ambientes Multi-Cloud. Experiência sólida no desenho e manutenção de arquiteturas resilientes, utilizando práticas de Infrastructure as Code (IaC) e monitoramento proativo para garantir a continuidade de negócios e eficiência operacional.
 
----
 
-### Technical Expertise
 
-**Cloud & Infrastructure**
-* **Cloud Providers:** Amazon Web Services (EC2, S3, RDS, Lambda, VPC, IAM).
-* **Operating Systems:** Linux Administration (Debian, RHEL, Ubuntu Server).
-* **Networking:** VPC Peering, DNS Management, Load Balancing, Security Groups.
+### Cloud & Infrastructure Management
 
-**DevOps & Automation**
-* **Infrastructure as Code:** Scripting avançado em Bash para automação de tarefas e provisionamento.
-* **CI/CD:** Implementação de pipelines para deploy automatizado e integração contínua.
-* **Containers:** Orquestração e gerenciamento de ambientes virtualizados.
+**Multi-Cloud Ecosystem**
+* **Providers:** Amazon Web Services (AWS), Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), DigitalOcean.
+* **Core Services:** Compute (EC2, Ampere A1), Networking (VPC, Cloudflare Tunnels), Storage (S3, Block Storage), Identity & Access Management (IAM).
+* **Linux Administration:** Hardening de instâncias, gerenciamento de kernels customizados (RHEL, Debian, Ubuntu) e otimização de performance via Bash.
 
-**Backend & Data**
-* **Languages:** Java (Spring Boot Ecosystem), JavaScript (Node.js).
-* **Databases:** SQL Server, PostgreSQL, MySQL (Modelagem, Otimização e Backup).
+**Infrastructure as Code & Automation**
+* **Provisioning:** Terraform para orquestração de recursos e gerenciamento de estado da infraestrutura.
+* **Configuration Management:** Ansible para automação de setups, padronização de ambientes e gestão de inventário.
+* **Scripting:** Automação avançada em Bash.
 
----
 
-### Philosophy & Methodology
 
-Minha atuação é pautada pelo rigor técnico e pelas melhores práticas do mercado:
+### Observability & Monitoring
 
-* **Security by Design:** Implementação de políticas de acesso restrito e hardening de instâncias.
-* **Observability:** Foco em monitoramento proativo para garantir a alta disponibilidade dos serviços.
-* **Cost Optimization:** Monitoramento e ajuste de recursos para garantir a melhor performance com o menor custo operacional.
+Expertise na implementação de stacks de monitoramento para NOC e SOC, transformando dados brutos em inteligência operacional:
 
----
+* **Monitoring Tools:** Zabbix, Grafana.
+* **Analysis & Logs:** Elastic Stack (ELK).
+* **Dashboard Design:** Criação de visualizações críticas para centros de operações, focadas em métricas de latência, uptime e segurança.
 
-### GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark&hide_border=true)
 
----
+### Technical Skills & Ecosystem
 
-### Professional Contact
+| Domínio | Tecnologias |
+| :--- | :--- |
+| **Backend & Integration** | Java (Spring Boot), JavaScript (Node.js) |
+| **Databases** | MySQL, PostgreSQL, SQL Server |
+| **Containers & Tools** | Docker, Git |
+
+
+### Professional Presence
 
 * **LinkedIn:** [linkedin.com/in/leandro-pinzon-filho-784551205/](https://www.linkedin.com/in/leandro-pinzon-filho-784551205/)
-* **Email:** leandro.pinzon.filho@gmail.com
+* **Contact:** leandro.pinzon.filho@gmail.com
 * **Academic:** Ciência da Computação - Unilasalle
+
