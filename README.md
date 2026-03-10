@@ -38,7 +38,15 @@ Expertise na implementação de stacks de monitoramento para NOC e SOC, transfor
 | **Systems & Automation** | Bash Scripting, Linux Administration (RHEL, Debian, Ubuntu) |
 | **Runtime & Virtualization** | Docker, VMware |
 | **Database Operations** | MySQL, PostgreSQL (Backup & Restore Ops) |
-
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b51a72151ce30a6bb58c8e9c57966984c949d44f0da66ab73a8ce502e8b50608… height="50" src="https://camo.githubusercontent.com/b51a72151ce30a6bb58c8e9c57966984c949d44f0da66ab73a8ce502e8b50608… data-canonical-src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" style="max-width: 100%; height: auto; max-height: 50px;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8421f4f48240eb52a1344292b666e572a77924a8ae7e4351829aacb463c78189… height="50" src="https://camo.githubusercontent.com/8421f4f48240eb52a1344292b666e572a77924a8ae7e4351829aacb463c78189… data-canonical-src="https://www.svgrepo.com/show/448228/grafana.svg" style="max-width: 100%; height: auto; max-height: 50px;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-ico… height="50" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-ico… style="max-width: 100%; height: auto; max-height: 50px;"></a>
+   href="https://camo.githubusercontent.com/71bc0debef9c83875c6cb4a94473153fa213cd7bb6f7dc543ed6b0c3e1d48ceb… height="50" src="https://camo.githubusercontent.com/71bc0debef9c83875c6cb4a94473153fa213cd7bb6f7dc543ed6b0c3e1d48ceb… data-canonical-src="https://www.svgrepo.com/show/452192/docker.svg" style="max-width: 100%; height: auto; max-height: 50px;"></a> 
+ 
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/25f33e873435b2a6acc5e4db4db335bfcc91671874783f888e83da4afd2de78e… height="50" src="https://camo.githubusercontent.com/25f33e873435b2a6acc5e4db4db335bfcc91671874783f888e83da4afd2de78e… data-canonical-src="https://www.svgrepo.com/show/373429/ansible.svg" style="max-width: 100%; height: auto; max-height: 50px;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/128a91c8365334706ee6395b892b31b4db183fafd473bcaa05c19ce7dd740419… height="50" src="https://camo.githubusercontent.com/128a91c8365334706ee6395b892b31b4db183fafd473bcaa05c19ce7dd740419… data-canonical-src="https://www.svgrepo.com/show/354447/terraform-icon.svg" style="max-width: 100%; height: auto; max-height: 50px;"></a>
+</p>
 
 ### Professional Presence
 
