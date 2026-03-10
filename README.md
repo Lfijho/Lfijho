@@ -38,12 +38,12 @@ Expertise na implementação de stacks de monitoramento para NOC e SOC, transfor
 | **Systems & Automation** | Bash Scripting, Linux Administration (RHEL, Debian, Ubuntu) |
 | **Runtime & Virtualization** | Docker, VMware |
 | **Database Operations** | MySQL, PostgreSQL (Backup & Restore Ops) |
-
 <p align="center">
 
-  <a href="https://www.linux.com" target="_blank">
-    <img src="https://www.svgrepo.com/svg/448236/linux" height="50"/>
+  <a href="https://www.kernel.org" target="_blank">
+    <img src="https://www.svgrepo.com/show/448236/linux.svg" height="50"/>
   </a>
+
   <a href="https://www.zabbix.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="50"/>
   </a>
@@ -68,17 +68,15 @@ Expertise na implementação de stacks de monitoramento para NOC e SOC, transfor
     <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" height="50"/>
   </a>
 
-  <a href="https://www.aws.com" target="_blank">
-    <img src="https://www.svgrepo.com/svg/448266/aws" height="50"/>
-  </a>
-<a href="https://www.oracle.com/br/cloud/" target="_blank">
-    <img src="https://www.svgrepo.com/svg/354152/oracle" height="50"/>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://www.svgrepo.com/show/448266/aws.svg" height="50"/>
   </a>
 
-  
+  <a href="https://www.oracle.com/cloud/" target="_blank">
+    <img src="https://www.svgrepo.com/show/354152/oracle.svg" height="50"/>
+  </a>
 
 </p>
-
 ### Professional Presence
 
 * **LinkedIn:** [linkedin.com/in/leandro-pinzon-filho-784551205/](https://www.linkedin.com/in/leandro-pinzon-filho-784551205/)
