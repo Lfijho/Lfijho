@@ -38,6 +38,7 @@ Expertise na implementação de stacks de monitoramento para NOC e SOC, transfor
 | **Systems & Automation** | Bash Scripting, Linux Administration (RHEL, Debian, Ubuntu) |
 | **Runtime & Virtualization** | Docker, VMware |
 | **Database Operations** | MySQL, PostgreSQL (Backup & Restore Ops) |
+
 <p align="center">
 
   <a href="https://www.kernel.org" target="_blank" style="text-decoration:none;">
@@ -77,6 +78,7 @@ Expertise na implementação de stacks de monitoramento para NOC e SOC, transfor
   </a>
 
 </p>
+
 ### Professional Presence
 
 * **LinkedIn:** [linkedin.com/in/leandro-pinzon-filho-784551205/](https://www.linkedin.com/in/leandro-pinzon-filho-784551205/)
