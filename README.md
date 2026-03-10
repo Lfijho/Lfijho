@@ -41,41 +41,41 @@ Expertise na implementação de stacks de monitoramento para NOC e SOC, transfor
 
 <p align="center">
 
-  <a href="https://www.kernel.org" target="_blank" style="text-decoration:none;">
-    <img src="https://www.svgrepo.com/show/448236/linux.svg" height="50" style="margin:10px"/>
-  </a>
+<a href="https://www.kernel.org" target="_blank" style="text-decoration:none; border:none; outline:none;">
+<img src="https://www.svgrepo.com/show/448236/linux.svg" height="65" style="margin:15px;">
+</a>
 
-  <a href="https://www.zabbix.com" target="_blank" style="text-decoration:none;">
-    <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="50" style="margin:10px"/>
-  </a>
+<a href="https://www.zabbix.com" target="_blank" style="text-decoration:none; border:none; outline:none;">
+<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="65" style="margin:15px;">
+</a>
 
-  <a href="https://grafana.com" target="_blank" style="text-decoration:none;">
-    <img src="https://www.svgrepo.com/show/448228/grafana.svg" height="50" style="margin:10px"/>
-  </a>
+<a href="https://grafana.com" target="_blank" style="text-decoration:none; border:none; outline:none;">
+<img src="https://www.svgrepo.com/show/448228/grafana.svg" height="65" style="margin:15px;">
+</a>
 
-  <a href="https://prometheus.io" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.svg" height="50" style="margin:10px"/>
-  </a>
+<a href="https://prometheus.io" target="_blank" style="text-decoration:none; border:none; outline:none;">
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.svg" height="65" style="margin:15px;">
+</a>
 
-  <a href="https://www.docker.com" target="_blank" style="text-decoration:none;">
-    <img src="https://www.svgrepo.com/show/452192/docker.svg" height="50" style="margin:10px"/>
-  </a>
+<a href="https://www.docker.com" target="_blank" style="text-decoration:none; border:none; outline:none;">
+<img src="https://www.svgrepo.com/show/452192/docker.svg" height="65" style="margin:15px;">
+</a>
 
-  <a href="https://www.ansible.com" target="_blank" style="text-decoration:none;">
-    <img src="https://www.svgrepo.com/show/373429/ansible.svg" height="50" style="margin:10px"/>
-  </a>
+<a href="https://www.ansible.com" target="_blank" style="text-decoration:none; border:none; outline:none;">
+<img src="https://www.svgrepo.com/show/373429/ansible.svg" height="65" style="margin:15px;">
+</a>
 
-  <a href="https://www.terraform.io" target="_blank" style="text-decoration:none;">
-    <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" height="50" style="margin:10px"/>
-  </a>
+<a href="https://www.terraform.io" target="_blank" style="text-decoration:none; border:none; outline:none;">
+<img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" height="65" style="margin:15px;">
+</a>
 
-  <a href="https://aws.amazon.com" target="_blank" style="text-decoration:none;">
-    <img src="https://www.svgrepo.com/show/448266/aws.svg" height="50" style="margin:10px"/>
-  </a>
+<a href="https://aws.amazon.com" target="_blank" style="text-decoration:none; border:none; outline:none;">
+<img src="https://www.svgrepo.com/show/448266/aws.svg" height="65" style="margin:15px;">
+</a>
 
-  <a href="https://www.oracle.com/cloud/" target="_blank" style="text-decoration:none;">
-    <img src="https://www.svgrepo.com/show/354152/oracle.svg" height="50" style="margin:10px"/>
-  </a>
+<a href="https://www.oracle.com/cloud/" target="_blank" style="text-decoration:none; border:none; outline:none;">
+<img src="https://www.svgrepo.com/show/354152/oracle.svg" height="65" style="margin:15px;">
+</a>
 
 </p>
 
