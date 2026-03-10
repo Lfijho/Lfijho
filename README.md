@@ -41,6 +41,9 @@ Expertise na implementação de stacks de monitoramento para NOC e SOC, transfor
 
 <p align="center">
 
+  <a href="https://www.linux.com" target="_blank">
+    <img src="https://www.svgrepo.com/svg/448236/linux" height="50"/>
+  </a>
   <a href="https://www.zabbix.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="50"/>
   </a>
@@ -64,6 +67,15 @@ Expertise na implementação de stacks de monitoramento para NOC e SOC, transfor
   <a href="https://www.terraform.io" target="_blank">
     <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" height="50"/>
   </a>
+
+  <a href="https://www.aws.com" target="_blank">
+    <img src="https://www.svgrepo.com/svg/448266/aws" height="50"/>
+  </a>
+<a href="https://www.oracle.com/br/cloud/" target="_blank">
+    <img src="https://www.svgrepo.com/svg/354152/oracle" height="50"/>
+  </a>
+
+  
 
 </p>
 
