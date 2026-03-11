@@ -8,41 +8,17 @@ Tenho experiência com ambientes multi-cloud, observabilidade para NOC/SOC e ope
 Stack
 Cloud & Infrastructure
 
-AWS
-
-Google Cloud Platform
-
-Oracle Cloud Infrastructure
-
-DigitalOcean
+AWS | Google Cloud Platform | Oracle Cloud Infrastructure | DigitalOcean
 
 Principais serviços utilizados:
 
-Compute (EC2, Ampere A1)
-
-Networking (VPC, Cloudflare Tunnels)
-
-Storage (S3, Block Storage)
-
-Identity & Access Management (IAM)
-
-Infrastructure as Code & Automation
-
-Terraform — provisionamento e gestão de infraestrutura
-
-Ansible — configuração e padronização de ambientes
-
-Bash — automação e tooling operacional
+Compute (EC2, Ampere A1) | Networking (VPC, Cloudflare Tunnels) | Storage (S3, Block Storage) | Identity & Access Management (IAM)| Infrastructure as Code & Automation| Terraform — provisionamento e gestão de infraestrutura| Ansible — configuração e padronização de ambientes| Bash — automação e tooling operacional
 
 Observability & Monitoring
 
 Experiência na implementação de monitoramento para ambientes de produção.
 
-Zabbix
-
-Grafana
-
-Elastic Stack (ELK)
+Zabbix | Grafana | Elastic Stack (ELK)
 
 Foco em:
 
