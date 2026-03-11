@@ -71,7 +71,7 @@ Zabbix | Grafana | Elastic Stack (ELK)
 <p align="center">
 
 <a href="https://www.kernel.org" style="text-decoration:none;border:none;">
-<img src="https://www.svgrepo.com/show/448236/linux.svg" height="60" style="vertical-align:middle;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" height="60" style="vertical-align:middle;">
 </a>
 
 <a href="https://www.zabbix.com" style="text-decoration:none;border:none;">
