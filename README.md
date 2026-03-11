@@ -1,87 +1,78 @@
-**Infrastructure Analyst | DevOps Engineer | Cloud & Automation**
+Infrastructure Analyst | DevOps | Cloud & Automation
 
-Especialista em infraestrutura de TI com foco em alta disponibilidade, automação de processos e governança em ambientes Multi-Cloud. Experiência sólida no desenho e manutenção de arquiteturas resilientes, utilizando práticas de Infrastructure as Code (IaC) e monitoramento proativo para garantir a continuidade de negócios e eficiência operacional.
+Trabalho com infraestrutura de TI focado em Linux, cloud e automação.
+Meu foco é manter ambientes estáveis, observáveis e fáceis de operar, usando Infrastructure as Code, boas práticas de monitoramento e automação de tarefas operacionais.
 
+Tenho experiência com ambientes multi-cloud, observabilidade para NOC/SOC e operação de serviços críticos.
 
+Stack
+Cloud & Infrastructure
 
-### Cloud & Infrastructure Management
+AWS
 
-**Multi-Cloud Ecosystem**
-* **Providers:** Amazon Web Services (AWS), Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), DigitalOcean.
-* **Core Services:** Compute (EC2, Ampere A1), Networking (VPC, Cloudflare Tunnels), Storage (S3, Block Storage), Identity & Access Management (IAM).
-* **Linux Administration:** Hardening de instâncias, gerenciamento de kernels customizados (RHEL, Debian, Ubuntu) e otimização de performance via Bash.
+Google Cloud Platform
 
-**Infrastructure as Code & Automation**
-* **Provisioning:** Terraform para orquestração de recursos e gerenciamento de estado da infraestrutura.
-* **Configuration Management:** Ansible para automação de setups, padronização de ambientes e gestão de inventário.
-* **Scripting:** Automação avançada em Bash.
+Oracle Cloud Infrastructure
 
+DigitalOcean
 
+Principais serviços utilizados:
 
-### Observability & Monitoring
+Compute (EC2, Ampere A1)
 
-Expertise na implementação de stacks de monitoramento para NOC e SOC, transformando dados brutos em inteligência operacional:
+Networking (VPC, Cloudflare Tunnels)
 
-* **Monitoring Tools:** Zabbix, Grafana.
-* **Analysis & Logs:** Elastic Stack (ELK).
-* **Dashboard Design:** Criação de visualizações críticas para centros de operações, focadas em métricas de latência, uptime e segurança.
+Storage (S3, Block Storage)
 
+Identity & Access Management (IAM)
 
+Infrastructure as Code & Automation
 
-### Infrastructure & Operations Ecosystem
+Terraform — provisionamento e gestão de infraestrutura
 
-| Domínio | Tecnologias |
-| :--- | :--- |
-| **Cloud Providers** | AWS, Google Cloud Platform (GCP), Oracle Cloud (OCI), DigitalOcean |
-| **Infrastructure as Code** | Terraform, Ansible |
-| **Observability & Monitoring** | Zabbix, Grafana |
-| **Systems & Automation** | Bash Scripting, Linux Administration (RHEL, Debian, Ubuntu) |
-| **Runtime & Virtualization** | Docker, VMware |
-| **Database Operations** | MySQL, PostgreSQL (Backup & Restore Ops) |
+Ansible — configuração e padronização de ambientes
 
-<p align="center">
+Bash — automação e tooling operacional
 
-<a href="https://www.kernel.org" target="_blank" style="text-decoration:none; border:none; outline:none;">
-<img src="https://www.svgrepo.com/show/448236/linux.svg" height="65" style="margin:15px;">
-</a>
+Observability & Monitoring
 
-<a href="https://www.zabbix.com" target="_blank" style="text-decoration:none; border:none; outline:none;">
-<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="65" style="margin:15px;">
-</a>
+Experiência na implementação de monitoramento para ambientes de produção.
 
-<a href="https://grafana.com" target="_blank" style="text-decoration:none; border:none; outline:none;">
-<img src="https://www.svgrepo.com/show/448228/grafana.svg" height="65" style="margin:15px;">
-</a>
+Zabbix
 
-<a href="https://prometheus.io" target="_blank" style="text-decoration:none; border:none; outline:none;">
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.svg" height="65" style="margin:15px;">
-</a>
+Grafana
 
-<a href="https://www.docker.com" target="_blank" style="text-decoration:none; border:none; outline:none;">
-<img src="https://www.svgrepo.com/show/452192/docker.svg" height="65" style="margin:15px;">
-</a>
+Elastic Stack (ELK)
 
-<a href="https://www.ansible.com" target="_blank" style="text-decoration:none; border:none; outline:none;">
-<img src="https://www.svgrepo.com/show/373429/ansible.svg" height="65" style="margin:15px;">
-</a>
+Foco em:
 
-<a href="https://www.terraform.io" target="_blank" style="text-decoration:none; border:none; outline:none;">
-<img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" height="65" style="margin:15px;">
-</a>
+métricas de disponibilidade
 
-<a href="https://aws.amazon.com" target="_blank" style="text-decoration:none; border:none; outline:none;">
-<img src="https://www.svgrepo.com/show/448266/aws.svg" height="65" style="margin:15px;">
-</a>
+latência e performance
 
-<a href="https://www.oracle.com/cloud/" target="_blank" style="text-decoration:none; border:none; outline:none;">
-<img src="https://www.svgrepo.com/show/354152/oracle.svg" height="65" style="margin:15px;">
-</a>
+alertas operacionais
 
-</p>
+dashboards para NOC
 
-### Professional Presence
+Systems & Operations
+Área	Tecnologias
+Cloud	AWS, GCP, OCI, DigitalOcean
+IaC	Terraform, Ansible
+Observability	Zabbix, Grafana
+Containers	Docker
+Virtualization	VMware
+Databases	MySQL, PostgreSQL
+Systems	Linux (Ubuntu, Debian, RHEL)
+Automation	Bash
+Technologies
+<p align="center"> <a href="https://www.kernel.org"> <img src="https://www.svgrepo.com/show/448236/linux.svg" height="60"> </a> <a href="https://www.zabbix.com"> <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="60"> </a> <a href="https://grafana.com"> <img src="https://www.svgrepo.com/show/448228/grafana.svg" height="60"> </a> <a href="https://prometheus.io"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.svg" height="60"> </a> <a href="https://www.docker.com"> <img src="https://www.svgrepo.com/show/452192/docker.svg" height="60"> </a> <a href="https://www.ansible.com"> <img src="https://www.svgrepo.com/show/373429/ansible.svg" height="60"> </a> <a href="https://www.terraform.io"> <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" height="60"> </a> <a href="https://aws.amazon.com"> <img src="https://www.svgrepo.com/show/448266/aws.svg" height="60"> </a> <a href="https://www.oracle.com/cloud/"> <img src="https://www.svgrepo.com/show/354152/oracle.svg" height="60"> </a> </p>
+Contact
 
-* **LinkedIn:** [linkedin.com/in/leandro-pinzon-filho-784551205/](https://www.linkedin.com/in/leandro-pinzon-filho-784551205/)
-* **Contact:** leandro.pinzon.filho@gmail.com
-* **Academic:** Ciência da Computação - Unilasalle
+LinkedIn
+https://www.linkedin.com/in/leandro-pinzon-filho-784551205/
 
+Email
+leandro.pinzon.filho@gmail.com
+
+Education
+BSc in Computer Science — Unilasalle
