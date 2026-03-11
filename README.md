@@ -70,40 +70,40 @@ Zabbix | Grafana | Elastic Stack (ELK)
 
 <p align="center">
 
-<a href="https://www.kernel.org">
-<img src="https://www.svgrepo.com/show/448236/linux.svg" height="60">
+<a href="https://www.kernel.org" style="text-decoration:none;border:none;">
+<img src="https://www.svgrepo.com/show/448236/linux.svg" height="60" style="vertical-align:middle;">
 </a>
 
-<a href="https://www.zabbix.com">
-<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="60">
+<a href="https://www.zabbix.com" style="text-decoration:none;border:none;">
+<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="60" style="vertical-align:middle;">
 </a>
 
-<a href="https://grafana.com">
-<img src="https://www.svgrepo.com/show/448228/grafana.svg" height="60">
+<a href="https://grafana.com" style="text-decoration:none;border:none;">
+<img src="https://www.svgrepo.com/show/448228/grafana.svg" height="60" style="vertical-align:middle;">
 </a>
 
-<a href="https://prometheus.io">
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.svg" height="60">
+<a href="https://prometheus.io" style="text-decoration:none;border:none;">
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.svg" height="60" style="vertical-align:middle;">
 </a>
 
-<a href="https://www.docker.com">
-<img src="https://www.svgrepo.com/show/452192/docker.svg" height="60">
+<a href="https://www.docker.com" style="text-decoration:none;border:none;">
+<img src="https://www.svgrepo.com/show/452192/docker.svg" height="60" style="vertical-align:middle;">
 </a>
 
-<a href="https://www.ansible.com">
-<img src="https://www.svgrepo.com/show/373429/ansible.svg" height="60">
+<a href="https://www.ansible.com" style="text-decoration:none;border:none;">
+<img src="https://www.svgrepo.com/show/373429/ansible.svg" height="60" style="vertical-align:middle;">
 </a>
 
-<a href="https://www.terraform.io">
-<img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" height="60">
+<a href="https://www.terraform.io" style="text-decoration:none;border:none;">
+<img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" height="60" style="vertical-align:middle;">
 </a>
 
-<a href="https://aws.amazon.com">
-<img src="https://www.svgrepo.com/show/448266/aws.svg" height="60">
+<a href="https://aws.amazon.com" style="text-decoration:none;border:none;">
+<img src="https://www.svgrepo.com/show/448266/aws.svg" height="60" style="vertical-align:middle;">
 </a>
 
-<a href="https://www.oracle.com/cloud/">
-<img src="https://www.svgrepo.com/show/354152/oracle.svg" height="60">
+<a href="https://www.oracle.com/cloud/" style="text-decoration:none;border:none;">
+<img src="https://www.svgrepo.com/show/354152/oracle.svg" height="60" style="vertical-align:middle;">
 </a>
 
 </p>
