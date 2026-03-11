@@ -79,11 +79,11 @@ Zabbix | Grafana | Elastic Stack (ELK)
 </a>
 
 <a href="https://grafana.com" style="text-decoration:none;border:none;">
-<img src="https://www.svgrepo.com/show/448228/grafana.svg" height="60" style="vertical-align:middle;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" height="60" style="vertical-align:middle;">
 </a>
 
 <a href="https://prometheus.io" style="text-decoration:none;border:none;">
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.svg" height="60" style="vertical-align:middle;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" height="60" style="vertical-align:middle;">
 </a>
 
 <a href="https://www.docker.com" style="text-decoration:none;border:none;">
