@@ -1,54 +1,125 @@
-Infrastructure Analyst | DevOps | Cloud & Automation
+# Leandro Pinzon Filho
 
-Trabalho com infraestrutura de TI focado em Linux, cloud e automação.
-Meu foco é manter ambientes estáveis, observáveis e fáceis de operar, usando Infrastructure as Code, boas práticas de monitoramento e automação de tarefas operacionais.
+## Infrastructure Analyst | DevOps | Cloud & Automation
 
-Tenho experiência com ambientes multi-cloud, observabilidade para NOC/SOC e operação de serviços críticos.
+Trabalho com infraestrutura de TI focado em **Linux, cloud e automação**.  
+Meu objetivo é manter ambientes **estáveis, observáveis e fáceis de operar**, usando **Infrastructure as Code**, boas práticas de monitoramento e automação de tarefas operacionais.
 
-Stack
-Cloud & Infrastructure
+Tenho experiência com **ambientes multi-cloud**, **observabilidade para NOC/SOC** e operação de **serviços críticos em produção**.
+
+---
+
+# Stack
+
+## Cloud & Infrastructure
+
+**Cloud Providers**
 
 AWS | Google Cloud Platform | Oracle Cloud Infrastructure | DigitalOcean
 
-Principais serviços utilizados:
+**Principais serviços utilizados**
 
-Compute (EC2, Ampere A1) | Networking (VPC, Cloudflare Tunnels) | Storage (S3, Block Storage) | Identity & Access Management (IAM)| Infrastructure as Code & Automation| Terraform — provisionamento e gestão de infraestrutura| Ansible — configuração e padronização de ambientes| Bash — automação e tooling operacional
+- **Compute:** EC2, Ampere A1  
+- **Networking:** VPC, Cloudflare Tunnels  
+- **Storage:** S3, Block Storage  
+- **Identity:** IAM  
 
-Observability & Monitoring
+---
+
+## Infrastructure as Code & Automation
+
+- **Terraform** — provisionamento e gestão de infraestrutura  
+- **Ansible** — configuração e padronização de ambientes  
+- **Bash** — automação e tooling operacional  
+
+---
+
+## Observability & Monitoring
 
 Experiência na implementação de monitoramento para ambientes de produção.
 
+**Stack**
+
 Zabbix | Grafana | Elastic Stack (ELK)
 
-Foco em:
+**Foco em**
 
-métricas de disponibilidade
+- métricas de disponibilidade  
+- latência e performance  
+- alertas operacionais  
+- dashboards para NOC  
 
-latência e performance
+---
 
-alertas operacionais
+# Systems & Operations
 
-dashboards para NOC
+| Área | Tecnologias |
+|-----|-----|
+| Cloud | AWS, GCP, OCI, DigitalOcean |
+| IaC | Terraform, Ansible |
+| Observability | Zabbix, Grafana |
+| Containers | Docker |
+| Virtualization | VMware |
+| Databases | MySQL, PostgreSQL |
+| Systems | Linux (Ubuntu, Debian, RHEL) |
+| Automation | Bash |
 
-Systems & Operations
-Área	Tecnologias
-Cloud	AWS, GCP, OCI, DigitalOcean
-IaC	Terraform, Ansible
-Observability	Zabbix, Grafana
-Containers	Docker
-Virtualization	VMware
-Databases	MySQL, PostgreSQL
-Systems	Linux (Ubuntu, Debian, RHEL)
-Automation	Bash
-Technologies
-<p align="center"> <a href="https://www.kernel.org"> <img src="https://www.svgrepo.com/show/448236/linux.svg" height="60"> </a> <a href="https://www.zabbix.com"> <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="60"> </a> <a href="https://grafana.com"> <img src="https://www.svgrepo.com/show/448228/grafana.svg" height="60"> </a> <a href="https://prometheus.io"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.svg" height="60"> </a> <a href="https://www.docker.com"> <img src="https://www.svgrepo.com/show/452192/docker.svg" height="60"> </a> <a href="https://www.ansible.com"> <img src="https://www.svgrepo.com/show/373429/ansible.svg" height="60"> </a> <a href="https://www.terraform.io"> <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" height="60"> </a> <a href="https://aws.amazon.com"> <img src="https://www.svgrepo.com/show/448266/aws.svg" height="60"> </a> <a href="https://www.oracle.com/cloud/"> <img src="https://www.svgrepo.com/show/354152/oracle.svg" height="60"> </a> </p>
-Contact
+---
 
-LinkedIn
+# Technologies
+
+<p align="center">
+
+<a href="https://www.kernel.org">
+<img src="https://www.svgrepo.com/show/448236/linux.svg" height="60">
+</a>
+
+<a href="https://www.zabbix.com">
+<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="60">
+</a>
+
+<a href="https://grafana.com">
+<img src="https://www.svgrepo.com/show/448228/grafana.svg" height="60">
+</a>
+
+<a href="https://prometheus.io">
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.svg" height="60">
+</a>
+
+<a href="https://www.docker.com">
+<img src="https://www.svgrepo.com/show/452192/docker.svg" height="60">
+</a>
+
+<a href="https://www.ansible.com">
+<img src="https://www.svgrepo.com/show/373429/ansible.svg" height="60">
+</a>
+
+<a href="https://www.terraform.io">
+<img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" height="60">
+</a>
+
+<a href="https://aws.amazon.com">
+<img src="https://www.svgrepo.com/show/448266/aws.svg" height="60">
+</a>
+
+<a href="https://www.oracle.com/cloud/">
+<img src="https://www.svgrepo.com/show/354152/oracle.svg" height="60">
+</a>
+
+</p>
+
+---
+
+# Contact
+
+**LinkedIn**  
 https://www.linkedin.com/in/leandro-pinzon-filho-784551205/
 
-Email
+**Email**  
 leandro.pinzon.filho@gmail.com
 
-Education
-BSc in Computer Science — Unilasalle
+---
+
+# Education
+
+**BSc in Computer Science — Unilasalle**
